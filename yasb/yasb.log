@@ -1,0 +1,977 @@
+2025-01-01 14:43:44 INFO log.py:21: Yasb
+2025-01-01 14:43:44 INFO config.py:59: Created default config file at C:\Users\esctacy\.config\yasb\config.yaml
+2025-01-01 14:43:44 INFO config.py:73: Created default stylesheet at C:\Users\esctacy\.config\yasb\styles.css
+2025-01-01 14:43:45 DEBUG win32.py:58: Looking up time zone info from registry
+2025-01-01 14:43:49 INFO weather.py:158: Fetched new weather data at 2025-01-01 14:43:49.019788
+2025-01-01 14:43:49 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2025-01-01 14:43:50 INFO event_listener.py:52: Created named pipe yasb-b6bce792-c820-11ef-8700-106fd9571377
+2025-01-01 14:43:50 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-b6bce792-c820-11ef-8700-106fd9571377
+2025-01-01 14:43:50 INFO watcher.py:39: Created file watcher for path C:\Users\esctacy\.config\yasb
+2025-01-01 14:43:50 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-01-01 14:43:50 DEBUG _windows.py:192: Thread started
+2025-01-01 14:43:50 WARNING event_listener.py:111: Komorebi failed to subscribe named pipe. Waiting for subscription...
+2025-01-01 14:45:08 INFO log.py:21: Yasb
+2025-01-01 14:45:08 DEBUG win32.py:58: Looking up time zone info from registry
+2025-01-01 14:45:08 INFO weather.py:158: Fetched new weather data at 2025-01-01 14:45:08.884523
+2025-01-01 14:45:08 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2025-01-01 14:45:09 INFO event_listener.py:52: Created named pipe yasb-e5dc79be-c820-11ef-9b8d-106fd9571377
+2025-01-01 14:45:09 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-e5dc79be-c820-11ef-9b8d-106fd9571377
+2025-01-01 14:45:09 INFO watcher.py:39: Created file watcher for path C:\Users\esctacy\.config\yasb
+2025-01-01 14:45:09 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-01-01 14:45:09 DEBUG _windows.py:192: Thread started
+2025-01-01 14:45:09 WARNING event_listener.py:111: Komorebi failed to subscribe named pipe. Waiting for subscription...
+2025-01-01 14:45:27 INFO log.py:21: Yasb
+2025-01-01 14:45:27 INFO weather.py:158: Fetched new weather data at 2025-01-01 14:45:27.482050
+2025-01-01 14:45:27 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2025-01-01 14:45:27 DEBUG win32.py:58: Looking up time zone info from registry
+2025-01-01 14:45:28 INFO event_listener.py:52: Created named pipe yasb-f12b1be7-c820-11ef-a581-106fd9571377
+2025-01-01 14:45:28 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-f12b1be7-c820-11ef-a581-106fd9571377
+2025-01-01 14:45:28 INFO watcher.py:39: Created file watcher for path C:\Users\esctacy\.config\yasb
+2025-01-01 14:45:28 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-01-01 14:45:28 DEBUG _windows.py:192: Thread started
+2025-01-01 14:45:28 WARNING event_listener.py:111: Komorebi failed to subscribe named pipe. Waiting for subscription...
+2025-01-01 14:47:13 INFO log.py:21: Yasb
+2025-01-01 14:47:14 INFO weather.py:158: Fetched new weather data at 2025-01-01 14:47:14.121148
+2025-01-01 14:47:14 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2025-01-01 14:47:14 DEBUG win32.py:58: Looking up time zone info from registry
+2025-01-01 14:47:14 INFO event_listener.py:52: Created named pipe yasb-30826602-c821-11ef-a0fc-106fd9571377
+2025-01-01 14:47:14 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-30826602-c821-11ef-a0fc-106fd9571377
+2025-01-01 14:47:14 INFO watcher.py:39: Created file watcher for path C:\Users\esctacy\.config\yasb
+2025-01-01 14:47:14 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-01-01 14:47:14 DEBUG _windows.py:192: Thread started
+2025-01-01 14:47:14 WARNING event_listener.py:111: Komorebi failed to subscribe named pipe. Waiting for subscription...
+2025-01-01 14:47:24 INFO log.py:21: Yasb
+2025-01-01 14:47:25 INFO weather.py:158: Fetched new weather data at 2025-01-01 14:47:25.104509
+2025-01-01 14:47:25 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2025-01-01 14:47:25 DEBUG win32.py:58: Looking up time zone info from registry
+2025-01-01 14:47:25 INFO event_listener.py:52: Created named pipe yasb-370aab1f-c821-11ef-adb0-106fd9571377
+2025-01-01 14:47:25 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-370aab1f-c821-11ef-adb0-106fd9571377
+2025-01-01 14:47:25 INFO watcher.py:39: Created file watcher for path C:\Users\esctacy\.config\yasb
+2025-01-01 14:47:25 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-01-01 14:47:25 DEBUG _windows.py:192: Thread started
+2025-01-01 14:47:25 WARNING event_listener.py:111: Komorebi failed to subscribe named pipe. Waiting for subscription...
+2025-01-01 14:48:01 INFO log.py:21: Yasb
+2025-01-01 14:48:01 DEBUG win32.py:58: Looking up time zone info from registry
+2025-01-01 14:48:01 INFO weather.py:158: Fetched new weather data at 2025-01-01 14:48:01.449399
+2025-01-01 14:48:01 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2025-01-01 14:48:02 INFO event_listener.py:52: Created named pipe yasb-4ccf5af1-c821-11ef-ae84-106fd9571377
+2025-01-01 14:48:02 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-4ccf5af1-c821-11ef-ae84-106fd9571377
+2025-01-01 14:48:02 INFO watcher.py:39: Created file watcher for path C:\Users\esctacy\.config\yasb
+2025-01-01 14:48:02 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-01-01 14:48:02 DEBUG _windows.py:192: Thread started
+2025-01-01 14:48:02 WARNING event_listener.py:111: Komorebi failed to subscribe named pipe. Waiting for subscription...
+2025-01-01 14:48:17 INFO log.py:21: Yasb
+2025-01-01 14:48:18 DEBUG win32.py:58: Looking up time zone info from registry
+2025-01-01 14:48:18 INFO weather.py:158: Fetched new weather data at 2025-01-01 14:48:18.226085
+2025-01-01 14:48:18 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2025-01-01 14:48:18 INFO event_listener.py:52: Created named pipe yasb-56bcb44d-c821-11ef-89bc-106fd9571377
+2025-01-01 14:48:18 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-56bcb44d-c821-11ef-89bc-106fd9571377
+2025-01-01 14:48:18 INFO watcher.py:39: Created file watcher for path C:\Users\esctacy\.config\yasb
+2025-01-01 14:48:18 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-01-01 14:48:18 DEBUG _windows.py:192: Thread started
+2025-01-01 14:48:18 WARNING event_listener.py:111: Komorebi failed to subscribe named pipe. Waiting for subscription...
+2025-01-01 14:48:28 INFO log.py:21: Yasb
+2025-01-01 14:48:28 INFO weather.py:158: Fetched new weather data at 2025-01-01 14:48:28.816100
+2025-01-01 14:48:28 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2025-01-01 14:48:28 DEBUG win32.py:58: Looking up time zone info from registry
+2025-01-01 14:48:29 INFO event_listener.py:52: Created named pipe yasb-5d0fb9b6-c821-11ef-a4ad-106fd9571377
+2025-01-01 14:48:29 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-5d0fb9b6-c821-11ef-a4ad-106fd9571377
+2025-01-01 14:48:29 INFO watcher.py:39: Created file watcher for path C:\Users\esctacy\.config\yasb
+2025-01-01 14:48:29 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-01-01 14:48:29 DEBUG _windows.py:192: Thread started
+2025-01-01 14:48:29 WARNING event_listener.py:111: Komorebi failed to subscribe named pipe. Waiting for subscription...
+2025-01-01 14:48:59 INFO log.py:21: Yasb
+2025-01-01 14:48:59 INFO weather.py:158: Fetched new weather data at 2025-01-01 14:48:59.463663
+2025-01-01 14:48:59 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2025-01-01 14:48:59 DEBUG win32.py:58: Looking up time zone info from registry
+2025-01-01 14:48:59 INFO event_listener.py:52: Created named pipe yasb-6f4cc906-c821-11ef-80f3-106fd9571377
+2025-01-01 14:48:59 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-6f4cc906-c821-11ef-80f3-106fd9571377
+2025-01-01 14:48:59 INFO watcher.py:39: Created file watcher for path C:\Users\esctacy\.config\yasb
+2025-01-01 14:48:59 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-01-01 14:48:59 DEBUG _windows.py:192: Thread started
+2025-01-01 14:48:59 WARNING event_listener.py:111: Komorebi failed to subscribe named pipe. Waiting for subscription...
+2025-01-01 14:49:15 INFO log.py:21: Yasb
+2025-01-01 14:49:15 DEBUG win32.py:58: Looking up time zone info from registry
+2025-01-01 14:49:16 INFO github.py:294: Check for GitHub notifications at 2025-01-01 14:49:16.378789
+2025-01-01 14:49:16 INFO weather.py:158: Fetched new weather data at 2025-01-01 14:49:16.394840
+2025-01-01 14:49:16 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2025-01-01 14:49:16 INFO event_listener.py:52: Created named pipe yasb-795e49cb-c821-11ef-9dde-106fd9571377
+2025-01-01 14:49:16 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-795e49cb-c821-11ef-9dde-106fd9571377
+2025-01-01 14:49:16 INFO watcher.py:39: Created file watcher for path C:\Users\esctacy\.config\yasb
+2025-01-01 14:49:16 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-01-01 14:49:16 DEBUG _windows.py:192: Thread started
+2025-01-01 14:49:16 WARNING event_listener.py:111: Komorebi failed to subscribe named pipe. Waiting for subscription...
+2025-01-01 14:49:16 ERROR github.py:343: HTTP Error occurred: 401 - {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest","status":"401"}
+2025-01-01 14:49:32 INFO log.py:21: Yasb
+2025-01-01 14:49:32 INFO weather.py:158: Fetched new weather data at 2025-01-01 14:49:32.852634
+2025-01-01 14:49:32 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2025-01-01 14:49:32 DEBUG win32.py:58: Looking up time zone info from registry
+2025-01-01 14:49:33 INFO event_listener.py:52: Created named pipe yasb-8331021c-c821-11ef-9d4c-106fd9571377
+2025-01-01 14:49:33 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-8331021c-c821-11ef-9d4c-106fd9571377
+2025-01-01 14:49:33 INFO watcher.py:39: Created file watcher for path C:\Users\esctacy\.config\yasb
+2025-01-01 14:49:33 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-01-01 14:49:33 DEBUG _windows.py:192: Thread started
+2025-01-01 14:49:33 WARNING event_listener.py:111: Komorebi failed to subscribe named pipe. Waiting for subscription...
+2025-01-01 14:49:47 INFO log.py:21: Yasb
+2025-01-01 14:49:47 DEBUG win32.py:58: Looking up time zone info from registry
+2025-01-01 14:49:47 INFO weather.py:158: Fetched new weather data at 2025-01-01 14:49:47.773125
+2025-01-01 14:49:47 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2025-01-01 14:49:48 INFO event_listener.py:52: Created named pipe yasb-8c15ff34-c821-11ef-b14d-106fd9571377
+2025-01-01 14:49:48 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-8c15ff34-c821-11ef-b14d-106fd9571377
+2025-01-01 14:49:48 INFO watcher.py:39: Created file watcher for path C:\Users\esctacy\.config\yasb
+2025-01-01 14:49:48 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-01-01 14:49:48 DEBUG _windows.py:192: Thread started
+2025-01-01 14:49:48 WARNING event_listener.py:111: Komorebi failed to subscribe named pipe. Waiting for subscription...
+2025-01-01 14:50:01 INFO log.py:21: Yasb
+2025-01-01 14:50:01 INFO weather.py:158: Fetched new weather data at 2025-01-01 14:50:01.678543
+2025-01-01 14:50:01 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2025-01-01 14:50:01 DEBUG win32.py:58: Looking up time zone info from registry
+2025-01-01 14:50:02 INFO event_listener.py:52: Created named pipe yasb-945eb804-c821-11ef-8f31-106fd9571377
+2025-01-01 14:50:02 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-945eb804-c821-11ef-8f31-106fd9571377
+2025-01-01 14:50:02 INFO watcher.py:39: Created file watcher for path C:\Users\esctacy\.config\yasb
+2025-01-01 14:50:02 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-01-01 14:50:02 DEBUG _windows.py:192: Thread started
+2025-01-01 14:50:02 WARNING event_listener.py:111: Komorebi failed to subscribe named pipe. Waiting for subscription...
+2025-01-01 14:52:08 INFO log.py:21: Yasb
+2025-01-01 14:52:08 INFO weather.py:158: Fetched new weather data at 2025-01-01 14:52:08.851231
+2025-01-01 14:52:08 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2025-01-01 14:52:08 DEBUG win32.py:58: Looking up time zone info from registry
+2025-01-01 14:52:09 INFO event_listener.py:52: Created named pipe yasb-e03386e5-c821-11ef-a5fc-106fd9571377
+2025-01-01 14:52:09 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-e03386e5-c821-11ef-a5fc-106fd9571377
+2025-01-01 14:52:09 INFO watcher.py:39: Created file watcher for path C:\Users\esctacy\.config\yasb
+2025-01-01 14:52:09 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-01-01 14:52:09 DEBUG _windows.py:192: Thread started
+2025-01-01 14:52:09 WARNING event_listener.py:111: Komorebi failed to subscribe named pipe. Waiting for subscription...
+2025-01-01 14:52:22 INFO log.py:21: Yasb
+2025-01-01 14:52:23 DEBUG win32.py:58: Looking up time zone info from registry
+2025-01-01 14:52:23 INFO weather.py:158: Fetched new weather data at 2025-01-01 14:52:23.333669
+2025-01-01 14:52:23 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2025-01-01 14:52:23 INFO event_listener.py:52: Created named pipe yasb-e8cb0307-c821-11ef-ac61-106fd9571377
+2025-01-01 14:52:23 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-e8cb0307-c821-11ef-ac61-106fd9571377
+2025-01-01 14:52:23 INFO watcher.py:39: Created file watcher for path C:\Users\esctacy\.config\yasb
+2025-01-01 14:52:23 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-01-01 14:52:23 DEBUG _windows.py:192: Thread started
+2025-01-01 14:52:23 WARNING event_listener.py:111: Komorebi failed to subscribe named pipe. Waiting for subscription...
+2025-01-01 14:53:32 INFO log.py:21: Yasb
+2025-01-01 14:53:32 DEBUG win32.py:58: Looking up time zone info from registry
+2025-01-01 14:53:32 INFO weather.py:158: Fetched new weather data at 2025-01-01 14:53:32.793059
+2025-01-01 14:53:32 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2025-01-01 14:53:33 INFO event_listener.py:52: Created named pipe yasb-12312ff4-c822-11ef-959b-106fd9571377
+2025-01-01 14:53:33 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-12312ff4-c822-11ef-959b-106fd9571377
+2025-01-01 14:53:33 INFO watcher.py:39: Created file watcher for path C:\Users\esctacy\.config\yasb
+2025-01-01 14:53:33 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-01-01 14:53:33 DEBUG _windows.py:192: Thread started
+2025-01-01 14:53:33 WARNING event_listener.py:111: Komorebi failed to subscribe named pipe. Waiting for subscription...
+2025-01-01 14:54:58 INFO log.py:21: Yasb
+2025-01-01 14:54:59 INFO weather.py:158: Fetched new weather data at 2025-01-01 14:54:59.505364
+2025-01-01 14:54:59 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2025-01-01 14:54:59 DEBUG win32.py:58: Looking up time zone info from registry
+2025-01-01 14:54:59 INFO event_listener.py:52: Created named pipe yasb-45e370e6-c822-11ef-9a2a-106fd9571377
+2025-01-01 14:54:59 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-45e370e6-c822-11ef-9a2a-106fd9571377
+2025-01-01 14:54:59 INFO watcher.py:39: Created file watcher for path C:\Users\esctacy\.config\yasb
+2025-01-01 14:54:59 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-01-01 14:54:59 DEBUG _windows.py:192: Thread started
+2025-01-01 14:54:59 WARNING event_listener.py:111: Komorebi failed to subscribe named pipe. Waiting for subscription...
+2025-01-01 14:55:26 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2025-01-01 14:55:38 INFO log.py:21: Yasb
+2025-01-01 14:55:38 DEBUG win32.py:58: Looking up time zone info from registry
+2025-01-01 14:55:38 INFO weather.py:158: Fetched new weather data at 2025-01-01 14:55:38.399061
+2025-01-01 14:55:38 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2025-01-01 14:55:38 INFO event_listener.py:52: Created named pipe yasb-5d17d074-c822-11ef-9c5e-106fd9571377
+2025-01-01 14:55:38 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-5d17d074-c822-11ef-9c5e-106fd9571377
+2025-01-01 14:55:38 INFO watcher.py:39: Created file watcher for path C:\Users\esctacy\.config\yasb
+2025-01-01 14:55:38 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-01-01 14:55:38 DEBUG _windows.py:192: Thread started
+2025-01-01 14:55:38 WARNING event_listener.py:111: Komorebi failed to subscribe named pipe. Waiting for subscription...
+2025-01-01 14:55:50 INFO log.py:21: Yasb
+2025-01-01 14:55:51 INFO weather.py:158: Fetched new weather data at 2025-01-01 14:55:51.466550
+2025-01-01 14:55:51 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2025-01-01 14:55:51 DEBUG win32.py:58: Looking up time zone info from registry
+2025-01-01 14:55:51 INFO event_listener.py:52: Created named pipe yasb-64de6bbc-c822-11ef-b2fa-106fd9571377
+2025-01-01 14:55:51 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-64de6bbc-c822-11ef-b2fa-106fd9571377
+2025-01-01 14:55:51 INFO watcher.py:39: Created file watcher for path C:\Users\esctacy\.config\yasb
+2025-01-01 14:55:51 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-01-01 14:55:51 DEBUG _windows.py:192: Thread started
+2025-01-01 14:55:51 WARNING event_listener.py:111: Komorebi failed to subscribe named pipe. Waiting for subscription...
+2025-01-01 14:56:01 INFO log.py:21: Yasb
+2025-01-01 14:56:01 DEBUG win32.py:58: Looking up time zone info from registry
+2025-01-01 14:56:01 INFO weather.py:158: Fetched new weather data at 2025-01-01 14:56:01.541140
+2025-01-01 14:56:01 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2025-01-01 14:56:01 INFO event_listener.py:52: Created named pipe yasb-6ad81da9-c822-11ef-aeed-106fd9571377
+2025-01-01 14:56:01 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-6ad81da9-c822-11ef-aeed-106fd9571377
+2025-01-01 14:56:01 INFO watcher.py:39: Created file watcher for path C:\Users\esctacy\.config\yasb
+2025-01-01 14:56:01 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-01-01 14:56:01 DEBUG _windows.py:192: Thread started
+2025-01-01 14:56:01 WARNING event_listener.py:111: Komorebi failed to subscribe named pipe. Waiting for subscription...
+2025-01-01 14:56:13 INFO log.py:21: Yasb
+2025-01-01 14:56:14 INFO weather.py:158: Fetched new weather data at 2025-01-01 14:56:14.264236
+2025-01-01 14:56:14 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2025-01-01 14:56:14 DEBUG win32.py:58: Looking up time zone info from registry
+2025-01-01 14:56:14 INFO event_listener.py:52: Created named pipe yasb-7273be6f-c822-11ef-8115-106fd9571377
+2025-01-01 14:56:14 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-7273be6f-c822-11ef-8115-106fd9571377
+2025-01-01 14:56:14 INFO watcher.py:39: Created file watcher for path C:\Users\esctacy\.config\yasb
+2025-01-01 14:56:14 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-01-01 14:56:14 DEBUG _windows.py:192: Thread started
+2025-01-01 14:56:14 WARNING event_listener.py:111: Komorebi failed to subscribe named pipe. Waiting for subscription...
+2025-01-01 14:56:28 INFO tray.py:157: Created shortcut at C:\Users\esctacy\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\yasb.lnk
+2025-01-01 14:57:03 INFO log.py:21: Yasb
+2025-01-01 14:57:04 INFO weather.py:158: Fetched new weather data at 2025-01-01 14:57:04.322985
+2025-01-01 14:57:04 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2025-01-01 14:57:04 DEBUG win32.py:58: Looking up time zone info from registry
+2025-01-01 14:57:04 INFO event_listener.py:52: Created named pipe yasb-9050d1be-c822-11ef-a41f-106fd9571377
+2025-01-01 14:57:04 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-9050d1be-c822-11ef-a41f-106fd9571377
+2025-01-01 14:57:04 INFO watcher.py:39: Created file watcher for path C:\Users\esctacy\.config\yasb
+2025-01-01 14:57:04 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-01-01 14:57:04 DEBUG _windows.py:192: Thread started
+2025-01-01 14:57:04 WARNING event_listener.py:111: Komorebi failed to subscribe named pipe. Waiting for subscription...
+2025-01-01 14:57:10 INFO log.py:21: Yasb
+2025-01-01 14:57:11 INFO weather.py:158: Fetched new weather data at 2025-01-01 14:57:11.122178
+2025-01-01 14:57:11 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2025-01-01 14:57:11 DEBUG win32.py:58: Looking up time zone info from registry
+2025-01-01 14:57:11 INFO event_listener.py:52: Created named pipe yasb-945dd265-c822-11ef-9961-106fd9571377
+2025-01-01 14:57:11 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-945dd265-c822-11ef-9961-106fd9571377
+2025-01-01 14:57:11 INFO watcher.py:39: Created file watcher for path C:\Users\esctacy\.config\yasb
+2025-01-01 14:57:11 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-01-01 14:57:11 DEBUG _windows.py:192: Thread started
+2025-01-01 14:57:11 WARNING event_listener.py:111: Komorebi failed to subscribe named pipe. Waiting for subscription...
+2025-01-01 15:00:30 INFO log.py:21: Yasb
+2025-01-01 15:00:31 INFO weather.py:158: Fetched new weather data at 2025-01-01 15:00:31.387870
+2025-01-01 15:00:31 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2025-01-01 15:00:31 DEBUG win32.py:58: Looking up time zone info from registry
+2025-01-01 15:00:31 INFO event_listener.py:52: Created named pipe yasb-0bc1bf1a-c823-11ef-a8ef-106fd9571377
+2025-01-01 15:00:31 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-0bc1bf1a-c823-11ef-a8ef-106fd9571377
+2025-01-01 15:00:31 INFO watcher.py:39: Created file watcher for path C:\Users\esctacy\.config\yasb
+2025-01-01 15:00:31 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-01-01 15:00:31 DEBUG _windows.py:192: Thread started
+2025-01-01 15:00:31 WARNING event_listener.py:111: Komorebi failed to subscribe named pipe. Waiting for subscription...
+2025-01-01 15:00:43 INFO log.py:21: Yasb
+2025-01-01 15:00:44 INFO weather.py:158: Fetched new weather data at 2025-01-01 15:00:44.175306
+2025-01-01 15:00:44 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2025-01-01 15:00:44 DEBUG win32.py:58: Looking up time zone info from registry
+2025-01-01 15:00:44 INFO watcher.py:39: Created file watcher for path C:\Users\esctacy\.config\yasb
+2025-01-01 15:00:44 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-01-01 15:00:44 DEBUG _windows.py:192: Thread started
+2025-01-01 15:01:05 ERROR bar_manager.py:53: Error loading config: while scanning for the next token
+found character '\t' that cannot start any token
+  in "C:\Users\esctacy\.config\yasb\config.yaml", line 44, column 1
+2025-01-01 15:01:09 ERROR bar_manager.py:53: Error loading config: while scanning for the next token
+found character '\t' that cannot start any token
+  in "C:\Users\esctacy\.config\yasb\config.yaml", line 44, column 1
+2025-01-01 15:01:19 ERROR bar_manager.py:53: Error loading config: while scanning for the next token
+found character '\t' that cannot start any token
+  in "C:\Users\esctacy\.config\yasb\config.yaml", line 44, column 1
+2025-01-01 15:01:23 ERROR bar_manager.py:53: Error loading config: while scanning for the next token
+found character '\t' that cannot start any token
+  in "C:\Users\esctacy\.config\yasb\config.yaml", line 44, column 1
+2025-01-01 15:01:23 ERROR bar_manager.py:53: Error loading config: while scanning for the next token
+found character '\t' that cannot start any token
+  in "C:\Users\esctacy\.config\yasb\config.yaml", line 44, column 1
+2025-01-01 15:01:23 ERROR bar_manager.py:53: Error loading config: while scanning for the next token
+found character '\t' that cannot start any token
+  in "C:\Users\esctacy\.config\yasb\config.yaml", line 44, column 1
+2025-01-01 15:01:32 INFO tray.py:198: Reloading Application...
+2025-01-01 15:01:33 INFO log.py:21: Yasb
+2025-01-01 15:01:48 INFO log.py:21: Yasb
+2025-01-01 15:01:49 INFO weather.py:158: Fetched new weather data at 2025-01-01 15:01:49.308249
+2025-01-01 15:01:49 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2025-01-01 15:01:49 DEBUG win32.py:58: Looking up time zone info from registry
+2025-01-01 15:01:49 INFO event_listener.py:52: Created named pipe yasb-3a285c35-c823-11ef-b624-106fd9571377
+2025-01-01 15:01:49 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-3a285c35-c823-11ef-b624-106fd9571377
+2025-01-01 15:01:49 INFO watcher.py:39: Created file watcher for path C:\Users\esctacy\.config\yasb
+2025-01-01 15:01:49 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-01-01 15:01:49 DEBUG _windows.py:192: Thread started
+2025-01-01 15:01:49 WARNING event_listener.py:111: Komorebi failed to subscribe named pipe. Waiting for subscription...
+2025-01-01 15:02:14 INFO log.py:21: Yasb
+2025-01-01 15:02:14 INFO weather.py:158: Fetched new weather data at 2025-01-01 15:02:14.998001
+2025-01-01 15:02:15 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2025-01-01 15:02:15 DEBUG win32.py:58: Looking up time zone info from registry
+2025-01-01 15:02:15 INFO watcher.py:39: Created file watcher for path C:\Users\esctacy\.config\yasb
+2025-01-01 15:02:15 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-01-01 15:02:15 DEBUG _windows.py:192: Thread started
+2025-01-01 15:03:44 INFO log.py:21: Yasb
+2025-01-01 15:03:45 WARNING widget_builder.py:38: No widget config could be found for widget 'taskbar
+2025-01-01 15:03:45 INFO weather.py:158: Fetched new weather data at 2025-01-01 15:03:45.467671
+2025-01-01 15:03:45 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2025-01-01 15:03:45 DEBUG win32.py:58: Looking up time zone info from registry
+2025-01-01 15:04:34 INFO log.py:21: Yasb
+2025-01-01 15:04:34 ERROR main.py:82: Another instance of the YASB is already running.
+2025-01-01 15:06:00 INFO log.py:21: Yasb
+2025-01-01 15:06:00 INFO weather.py:158: Fetched new weather data at 2025-01-01 15:06:00.555302
+2025-01-01 15:06:00 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2025-01-01 15:06:00 DEBUG win32.py:58: Looking up time zone info from registry
+2025-01-01 15:06:01 INFO watcher.py:39: Created file watcher for path C:\Users\esctacy\.config\yasb
+2025-01-01 15:06:01 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-01-01 15:06:01 DEBUG _windows.py:192: Thread started
+2025-01-01 15:07:09 INFO log.py:21: Yasb
+2025-01-01 15:07:10 INFO weather.py:158: Fetched new weather data at 2025-01-01 15:07:10.356444
+2025-01-01 15:07:10 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2025-01-01 15:07:10 DEBUG win32.py:58: Looking up time zone info from registry
+2025-01-01 15:07:10 INFO watcher.py:39: Created file watcher for path C:\Users\esctacy\.config\yasb
+2025-01-01 15:07:10 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-01-01 15:07:10 DEBUG _windows.py:192: Thread started
+2025-01-01 15:09:03 INFO log.py:21: Yasb
+2025-01-01 15:09:03 INFO weather.py:158: Fetched new weather data at 2025-01-01 15:09:03.924679
+2025-01-01 15:09:03 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2025-01-01 15:09:03 DEBUG win32.py:58: Looking up time zone info from registry
+2025-01-01 15:09:04 INFO watcher.py:39: Created file watcher for path C:\Users\esctacy\.config\yasb
+2025-01-01 15:09:04 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-01-01 15:09:04 DEBUG _windows.py:192: Thread started
+2025-01-01 15:09:04 ERROR media.py:189: MediaWidget: Error setting thumbnail: y1 must be greater than or equal to y0
+2025-01-01 15:09:15 ERROR media.py:189: MediaWidget: Error setting thumbnail: y1 must be greater than or equal to y0
+2025-01-01 15:09:15 ERROR media.py:189: MediaWidget: Error setting thumbnail: y1 must be greater than or equal to y0
+2025-01-01 15:09:15 ERROR media.py:189: MediaWidget: Error setting thumbnail: y1 must be greater than or equal to y0
+2025-01-01 15:09:15 ERROR media.py:189: MediaWidget: Error setting thumbnail: y1 must be greater than or equal to y0
+2025-01-01 15:10:43 INFO log.py:21: Yasb
+2025-01-01 15:10:43 INFO weather.py:158: Fetched new weather data at 2025-01-01 15:10:43.657301
+2025-01-01 15:10:43 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2025-01-01 15:10:43 DEBUG win32.py:58: Looking up time zone info from registry
+2025-01-01 15:10:44 INFO watcher.py:39: Created file watcher for path C:\Users\esctacy\.config\yasb
+2025-01-01 15:10:44 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-01-01 15:10:44 DEBUG _windows.py:192: Thread started
+2025-01-01 15:10:50 INFO log.py:21: Yasb
+2025-01-01 15:10:50 INFO weather.py:158: Fetched new weather data at 2025-01-01 15:10:50.999332
+2025-01-01 15:10:51 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2025-01-01 15:10:51 DEBUG win32.py:58: Looking up time zone info from registry
+2025-01-01 15:10:51 INFO watcher.py:39: Created file watcher for path C:\Users\esctacy\.config\yasb
+2025-01-01 15:10:51 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-01-01 15:10:51 DEBUG _windows.py:192: Thread started
+2025-01-01 15:11:02 INFO log.py:21: Yasb
+2025-01-01 15:11:03 INFO weather.py:158: Fetched new weather data at 2025-01-01 15:11:03.507899
+2025-01-01 15:11:03 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2025-01-01 15:11:03 DEBUG win32.py:58: Looking up time zone info from registry
+2025-01-01 15:11:03 INFO watcher.py:39: Created file watcher for path C:\Users\esctacy\.config\yasb
+2025-01-01 15:11:03 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-01-01 15:11:03 DEBUG _windows.py:192: Thread started
+2025-01-01 15:11:55 INFO log.py:21: Yasb
+2025-01-01 15:11:56 INFO weather.py:158: Fetched new weather data at 2025-01-01 15:11:56.280884
+2025-01-01 15:11:56 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2025-01-01 15:11:56 DEBUG win32.py:58: Looking up time zone info from registry
+2025-01-01 15:11:56 INFO watcher.py:39: Created file watcher for path C:\Users\esctacy\.config\yasb
+2025-01-01 15:11:56 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-01-01 15:11:56 DEBUG _windows.py:192: Thread started
+2025-01-01 15:13:13 ERROR config.py:99: The file 'C:\Users\esctacy\.config\yasb\config.yaml' contains Parser Error(s). Please fix:
+while parsing a flow sequence
+  in "C:\Users\esctacy\.config\yasb\config.yaml", line 41, column 9
+expected ',' or ']', but got '<scalar>'
+  in "C:\Users\esctacy\.config\yasb\config.yaml", line 43, column 23
+2025-01-01 15:13:25 ERROR config.py:99: The file 'C:\Users\esctacy\.config\yasb\config.yaml' contains Parser Error(s). Please fix:
+while parsing a flow sequence
+  in "C:\Users\esctacy\.config\yasb\config.yaml", line 41, column 9
+expected ',' or ']', but got '<scalar>'
+  in "C:\Users\esctacy\.config\yasb\config.yaml", line 43, column 23
+2025-01-01 15:13:28 ERROR config.py:99: The file 'C:\Users\esctacy\.config\yasb\config.yaml' contains Parser Error(s). Please fix:
+while parsing a flow sequence
+  in "C:\Users\esctacy\.config\yasb\config.yaml", line 41, column 9
+expected ',' or ']', but got '<scalar>'
+  in "C:\Users\esctacy\.config\yasb\config.yaml", line 43, column 23
+2025-01-01 15:13:41 INFO log.py:21: Yasb
+2025-01-01 15:13:42 WARNING widget_builder.py:38: No widget config could be found for widget 'wallpapers
+2025-01-01 15:13:42 INFO weather.py:158: Fetched new weather data at 2025-01-01 15:13:42.485827
+2025-01-01 15:13:42 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2025-01-01 15:13:42 DEBUG win32.py:58: Looking up time zone info from registry
+2025-01-01 15:14:16 INFO log.py:21: Yasb
+2025-01-01 15:14:16 INFO weather.py:158: Fetched new weather data at 2025-01-01 15:14:16.992099
+2025-01-01 15:14:17 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2025-01-01 15:14:17 DEBUG win32.py:58: Looking up time zone info from registry
+2025-01-01 15:14:17 INFO watcher.py:39: Created file watcher for path C:\Users\esctacy\.config\yasb
+2025-01-01 15:14:17 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-01-01 15:14:17 DEBUG _windows.py:192: Thread started
+2025-01-01 15:15:21 ERROR bar_manager.py:53: Error loading config: while scanning a double-quoted scalar
+  in "C:\Users\esctacy\.config\yasb\config.yaml", line 319, column 21
+expected escape sequence of 8 hexadecimal numbers, but found 's'
+  in "C:\Users\esctacy\.config\yasb\config.yaml", line 319, column 26
+2025-01-01 15:15:24 ERROR bar_manager.py:53: Error loading config: while scanning a double-quoted scalar
+  in "C:\Users\esctacy\.config\yasb\config.yaml", line 319, column 21
+expected escape sequence of 8 hexadecimal numbers, but found 's'
+  in "C:\Users\esctacy\.config\yasb\config.yaml", line 319, column 26
+2025-01-01 15:15:36 ERROR bar_manager.py:53: Error loading config: while scanning a double-quoted scalar
+  in "C:\Users\esctacy\.config\yasb\config.yaml", line 319, column 21
+expected escape sequence of 8 hexadecimal numbers, but found 's'
+  in "C:\Users\esctacy\.config\yasb\config.yaml", line 319, column 26
+2025-01-01 15:15:38 ERROR bar_manager.py:53: Error loading config: while scanning a double-quoted scalar
+  in "C:\Users\esctacy\.config\yasb\config.yaml", line 319, column 21
+expected escape sequence of 8 hexadecimal numbers, but found 's'
+  in "C:\Users\esctacy\.config\yasb\config.yaml", line 319, column 26
+2025-01-01 15:15:50 INFO tray.py:198: Reloading Application...
+2025-01-01 15:15:50 INFO log.py:21: Yasb
+2025-01-01 15:16:01 INFO log.py:21: Yasb
+2025-01-01 15:16:30 INFO log.py:21: Yasb
+2025-01-01 15:16:38 INFO log.py:21: Yasb
+2025-01-01 15:16:39 INFO weather.py:158: Fetched new weather data at 2025-01-01 15:16:39.255392
+2025-01-01 15:16:39 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2025-01-01 15:16:39 DEBUG win32.py:58: Looking up time zone info from registry
+2025-01-01 15:16:39 INFO watcher.py:39: Created file watcher for path C:\Users\esctacy\.config\yasb
+2025-01-01 15:16:39 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-01-01 15:16:39 DEBUG _windows.py:192: Thread started
+2025-01-01 15:18:08 INFO log.py:21: Yasb
+2025-01-01 15:18:09 INFO weather.py:158: Fetched new weather data at 2025-01-01 15:18:09.197620
+2025-01-01 15:18:09 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2025-01-01 15:18:09 DEBUG win32.py:58: Looking up time zone info from registry
+2025-01-01 15:18:09 INFO watcher.py:39: Created file watcher for path C:\Users\esctacy\.config\yasb
+2025-01-01 15:18:09 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-01-01 15:18:09 DEBUG _windows.py:192: Thread started
+2025-01-01 15:19:05 INFO log.py:21: Yasb
+2025-01-01 15:19:05 INFO weather.py:158: Fetched new weather data at 2025-01-01 15:19:05.643963
+2025-01-01 15:19:05 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2025-01-01 15:19:05 DEBUG win32.py:58: Looking up time zone info from registry
+2025-01-01 15:19:06 INFO watcher.py:39: Created file watcher for path C:\Users\esctacy\.config\yasb
+2025-01-01 15:19:06 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-01-01 15:19:06 DEBUG _windows.py:192: Thread started
+2025-01-01 15:19:40 ERROR bar_manager.py:53: Error loading config: while scanning a double-quoted scalar
+  in "C:\Users\esctacy\.config\yasb\config.yaml", line 319, column 21
+expected escape sequence of 8 hexadecimal numbers, but found 's'
+  in "C:\Users\esctacy\.config\yasb\config.yaml", line 319, column 26
+2025-01-01 15:19:41 ERROR bar_manager.py:53: Error loading config: while scanning a double-quoted scalar
+  in "C:\Users\esctacy\.config\yasb\config.yaml", line 319, column 21
+expected escape sequence of 8 hexadecimal numbers, but found 's'
+  in "C:\Users\esctacy\.config\yasb\config.yaml", line 319, column 26
+2025-01-01 15:21:45 INFO log.py:21: Yasb
+2025-01-01 15:21:46 WARNING widget_builder.py:38: No widget config could be found for widget 'wallpapers
+2025-01-01 15:21:46 INFO weather.py:158: Fetched new weather data at 2025-01-01 15:21:46.412578
+2025-01-01 15:21:46 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2025-01-01 15:21:46 DEBUG win32.py:58: Looking up time zone info from registry
+2025-01-01 15:22:02 INFO log.py:21: Yasb
+2025-01-01 15:22:02 ERROR main.py:82: Another instance of the YASB is already running.
+2025-01-01 15:22:11 INFO log.py:21: Yasb
+2025-01-01 15:22:11 INFO weather.py:158: Fetched new weather data at 2025-01-01 15:22:11.642989
+2025-01-01 15:22:11 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2025-01-01 15:22:11 DEBUG win32.py:58: Looking up time zone info from registry
+2025-01-01 15:22:12 INFO watcher.py:39: Created file watcher for path C:\Users\esctacy\.config\yasb
+2025-01-01 15:22:12 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-01-01 15:22:12 DEBUG _windows.py:192: Thread started
+2025-01-01 15:22:14 ERROR main.py:72: Unhandled exception
+Traceback (most recent call last):
+  File "D:\a\yasb\yasb\src\core\widgets\yasb\wallpapers.py", line 209, in handle_mouse_events
+TypeError: 'NoneType' object is not subscriptable
+2025-01-01 15:22:21 INFO log.py:21: Yasb
+2025-01-01 15:22:22 INFO weather.py:158: Fetched new weather data at 2025-01-01 15:22:22.019629
+2025-01-01 15:22:22 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2025-01-01 15:22:22 DEBUG win32.py:58: Looking up time zone info from registry
+2025-01-01 15:22:22 INFO watcher.py:39: Created file watcher for path C:\Users\esctacy\.config\yasb
+2025-01-01 15:22:22 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-01-01 15:22:22 DEBUG _windows.py:192: Thread started
+2025-01-01 15:22:26 ERROR main.py:72: Unhandled exception
+Traceback (most recent call last):
+  File "D:\a\yasb\yasb\src\core\widgets\yasb\wallpapers.py", line 209, in handle_mouse_events
+TypeError: 'NoneType' object is not subscriptable
+2025-01-01 15:23:51 INFO log.py:21: Yasb
+2025-01-01 15:23:52 INFO weather.py:158: Fetched new weather data at 2025-01-01 15:23:52.045640
+2025-01-01 15:23:52 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2025-01-01 15:23:52 DEBUG win32.py:58: Looking up time zone info from registry
+2025-01-01 15:24:33 INFO log.py:21: Yasb
+2025-01-01 15:24:34 INFO weather.py:158: Fetched new weather data at 2025-01-01 15:24:34.502622
+2025-01-01 15:24:34 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2025-01-01 15:24:34 DEBUG win32.py:58: Looking up time zone info from registry
+2025-01-01 15:24:34 INFO watcher.py:39: Created file watcher for path C:\Users\esctacy\.config\yasb
+2025-01-01 15:24:34 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-01-01 15:24:34 DEBUG _windows.py:192: Thread started
+2025-01-01 15:27:39 INFO log.py:21: Yasb
+2025-01-01 15:27:40 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2025-01-01 15:27:40 DEBUG win32.py:58: Looking up time zone info from registry
+2025-01-01 15:27:40 INFO watcher.py:39: Created file watcher for path C:\Users\esctacy\.config\yasb
+2025-01-01 15:27:40 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-01-01 15:27:40 DEBUG _windows.py:192: Thread started
+2025-01-01 15:28:06 INFO log.py:21: Yasb
+2025-01-01 15:28:07 WARNING widget_builder.py:38: No widget config could be found for widget 'brightness
+2025-01-01 15:28:07 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2025-01-01 15:28:07 DEBUG win32.py:58: Looking up time zone info from registry
+2025-01-01 15:28:56 INFO log.py:21: Yasb
+2025-01-01 15:28:56 ERROR widget_builder.py:64: Failed to import widget with type yasb.brightness.BrightnessWidget
+Traceback (most recent call last):
+  File "D:\a\yasb\yasb\src\core\utils\widget_builder.py", line 42, in _build_widget
+  File "C:\hostedtoolcache\windows\Python\3.12.8\x64\Lib\importlib\__init__.py", line 90, in import_module
+  File "<frozen importlib._bootstrap>", line 1387, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1360, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1324, in _find_and_load_unlocked
+ModuleNotFoundError: No module named 'core.widgets.yasb.brightness'
+2025-01-01 15:28:56 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2025-01-01 15:28:56 DEBUG win32.py:58: Looking up time zone info from registry
+2025-01-01 15:31:02 INFO log.py:21: Yasb
+2025-01-01 15:31:03 ERROR widget_builder.py:64: Failed to import widget with type yasb.brightness.BrightnessWidget
+Traceback (most recent call last):
+  File "D:\a\yasb\yasb\src\core\utils\widget_builder.py", line 42, in _build_widget
+  File "C:\hostedtoolcache\windows\Python\3.12.8\x64\Lib\importlib\__init__.py", line 90, in import_module
+  File "<frozen importlib._bootstrap>", line 1387, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1360, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1324, in _find_and_load_unlocked
+ModuleNotFoundError: No module named 'core.widgets.yasb.brightness'
+2025-01-01 15:31:03 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2025-01-01 15:31:03 DEBUG win32.py:58: Looking up time zone info from registry
+2025-01-01 15:33:05 INFO log.py:21: Yasb
+2025-01-01 15:33:06 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2025-01-01 15:33:06 DEBUG win32.py:58: Looking up time zone info from registry
+2025-01-01 15:33:06 INFO watcher.py:39: Created file watcher for path C:\Users\esctacy\.config\yasb
+2025-01-01 15:33:06 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-01-01 15:33:06 DEBUG _windows.py:192: Thread started
+2025-01-01 15:35:47 INFO log.py:21: Yasb
+2025-01-01 15:35:47 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2025-01-01 15:35:48 DEBUG win32.py:58: Looking up time zone info from registry
+2025-01-01 15:35:48 INFO watcher.py:39: Created file watcher for path C:\Users\esctacy\.config\yasb
+2025-01-01 15:35:48 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-01-01 15:35:48 DEBUG _windows.py:192: Thread started
+2025-01-01 15:45:44 DEBUG _windows.py:218: Stopping worker thread...
+2025-01-01 15:45:44 DEBUG _windows.py:201: Exiting thread
+2025-01-01 15:45:44 DEBUG _windows.py:75: Closing
+2025-01-01 15:45:44 ERROR event_service.py:30: Failed to emit signal <bound PYQT_SIGNAL window_name_change of ActiveWindowWidget object at 0x0000024CC18F6350>. Removing link to WinEvent.EventObjectNameChange.
+2025-01-01 15:46:51 INFO log.py:21: Yasb
+2025-01-01 15:46:53 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2025-01-01 15:46:53 DEBUG win32.py:58: Looking up time zone info from registry
+2025-01-01 15:46:56 INFO watcher.py:39: Created file watcher for path C:\Users\esctacy\.config\yasb
+2025-01-01 15:46:56 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-01-01 15:46:56 DEBUG _windows.py:192: Thread started
+2025-01-01 16:02:30 INFO log.py:21: Yasb
+2025-01-01 16:02:32 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2025-01-01 16:02:32 DEBUG win32.py:58: Looking up time zone info from registry
+2025-01-01 16:02:35 INFO watcher.py:39: Created file watcher for path C:\Users\esctacy\.config\yasb
+2025-01-01 16:02:35 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-01-01 16:02:35 DEBUG _windows.py:192: Thread started
+2025-01-01 16:05:20 INFO log.py:21: Yasb
+2025-01-01 16:05:21 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2025-01-01 16:05:22 DEBUG win32.py:58: Looking up time zone info from registry
+2025-01-01 16:05:24 INFO watcher.py:39: Created file watcher for path C:\Users\esctacy\.config\yasb
+2025-01-01 16:05:24 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-01-01 16:05:24 DEBUG _windows.py:192: Thread started
+2025-01-01 16:10:36 INFO log.py:21: Yasb
+2025-01-01 16:10:37 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2025-01-01 16:10:37 DEBUG win32.py:58: Looking up time zone info from registry
+2025-01-01 16:10:38 INFO watcher.py:39: Created file watcher for path C:\Users\esctacy\.config\yasb
+2025-01-01 16:10:38 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-01-01 16:10:38 DEBUG _windows.py:192: Thread started
+2025-01-01 16:20:26 DEBUG _windows.py:218: Stopping worker thread...
+2025-01-01 16:20:26 DEBUG _windows.py:201: Exiting thread
+2025-01-01 16:20:26 DEBUG _windows.py:75: Closing
+2025-01-01 16:20:26 ERROR event_service.py:30: Failed to emit signal <bound PYQT_SIGNAL window_name_change of ActiveWindowWidget object at 0x000001BF389B2350>. Removing link to WinEvent.EventObjectNameChange.
+2025-01-01 16:21:37 INFO log.py:21: Yasb
+2025-01-01 16:21:37 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2025-01-01 16:21:37 DEBUG win32.py:58: Looking up time zone info from registry
+2025-01-01 16:21:38 INFO watcher.py:39: Created file watcher for path C:\Users\esctacy\.config\yasb
+2025-01-01 16:21:38 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-01-01 16:21:38 DEBUG _windows.py:192: Thread started
+2025-01-01 16:56:51 INFO log.py:21: Yasb
+2025-01-01 16:56:52 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2025-01-01 16:56:52 DEBUG win32.py:58: Looking up time zone info from registry
+2025-01-01 16:56:52 INFO watcher.py:39: Created file watcher for path C:\Users\esctacy\.config\yasb
+2025-01-01 16:56:52 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-01-01 16:56:52 DEBUG _windows.py:192: Thread started
+2025-01-01 16:57:58 INFO log.py:21: Yasb
+2025-01-01 16:57:59 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2025-01-01 16:57:59 DEBUG win32.py:58: Looking up time zone info from registry
+2025-01-01 16:57:59 INFO watcher.py:39: Created file watcher for path C:\Users\esctacy\.config\yasb
+2025-01-01 16:57:59 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-01-01 16:57:59 DEBUG _windows.py:192: Thread started
+2025-01-01 18:00:27 INFO tray.py:198: Reloading Application...
+2025-01-01 18:00:27 INFO log.py:21: Yasb
+2025-01-01 18:00:28 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2025-01-01 18:00:28 DEBUG win32.py:58: Looking up time zone info from registry
+2025-01-01 18:00:28 INFO watcher.py:39: Created file watcher for path C:\Users\esctacy\.config\yasb
+2025-01-01 18:00:28 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-01-01 18:00:28 DEBUG _windows.py:192: Thread started
+2025-01-01 18:06:40 INFO tray.py:198: Reloading Application...
+2025-01-01 18:06:40 INFO log.py:21: Yasb
+2025-01-01 18:06:41 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2025-01-01 18:06:41 DEBUG win32.py:58: Looking up time zone info from registry
+2025-01-01 18:06:41 INFO watcher.py:39: Created file watcher for path C:\Users\esctacy\.config\yasb
+2025-01-01 18:06:41 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-01-01 18:06:41 DEBUG _windows.py:192: Thread started
+2025-01-01 18:07:58 INFO tray.py:198: Reloading Application...
+2025-01-01 18:07:58 INFO log.py:21: Yasb
+2025-01-01 18:07:58 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2025-01-01 18:07:58 DEBUG win32.py:58: Looking up time zone info from registry
+2025-01-01 18:07:59 INFO watcher.py:39: Created file watcher for path C:\Users\esctacy\.config\yasb
+2025-01-01 18:07:59 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-01-01 18:07:59 DEBUG _windows.py:192: Thread started
+2025-01-01 18:08:28 INFO tray.py:198: Reloading Application...
+2025-01-01 18:08:28 INFO log.py:21: Yasb
+2025-01-01 18:08:29 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2025-01-01 18:08:29 DEBUG win32.py:58: Looking up time zone info from registry
+2025-01-01 18:08:29 INFO watcher.py:39: Created file watcher for path C:\Users\esctacy\.config\yasb
+2025-01-01 18:08:29 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-01-01 18:08:29 DEBUG _windows.py:192: Thread started
+2025-01-01 22:17:39 DEBUG _windows.py:218: Stopping worker thread...
+2025-01-01 22:17:39 DEBUG _windows.py:201: Exiting thread
+2025-01-01 22:17:39 DEBUG _windows.py:75: Closing
+2025-01-02 09:18:48 INFO log.py:21: Yasb
+2025-01-02 09:18:48 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2025-01-02 09:18:48 DEBUG win32.py:58: Looking up time zone info from registry
+2025-01-02 09:18:50 INFO watcher.py:39: Created file watcher for path C:\Users\esctacy\.config\yasb
+2025-01-02 09:18:50 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-01-02 09:18:50 DEBUG _windows.py:192: Thread started
+2025-01-02 09:54:03 INFO log.py:21: Yasb
+2025-01-02 09:54:04 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2025-01-02 09:54:05 DEBUG win32.py:58: Looking up time zone info from registry
+2025-01-02 09:54:07 INFO watcher.py:39: Created file watcher for path C:\Users\esctacy\.config\yasb
+2025-01-02 09:54:07 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-01-02 09:54:07 DEBUG _windows.py:192: Thread started
+2025-01-02 21:02:33 INFO log.py:21: Yasb
+2025-01-02 21:02:36 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2025-01-02 21:02:36 DEBUG win32.py:58: Looking up time zone info from registry
+2025-01-02 21:02:40 INFO watcher.py:39: Created file watcher for path C:\Users\esctacy\.config\yasb
+2025-01-02 21:02:40 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-01-02 21:02:40 DEBUG _windows.py:192: Thread started
+2025-01-02 21:04:20 INFO log.py:21: Yasb
+2025-01-02 21:04:22 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2025-01-02 21:04:22 DEBUG win32.py:58: Looking up time zone info from registry
+2025-01-02 21:04:26 INFO watcher.py:39: Created file watcher for path C:\Users\esctacy\.config\yasb
+2025-01-02 21:04:26 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-01-02 21:04:26 DEBUG _windows.py:192: Thread started
+2025-01-03 06:59:38 INFO log.py:21: Yasb
+2025-01-03 06:59:40 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2025-01-03 06:59:41 DEBUG win32.py:58: Looking up time zone info from registry
+2025-01-03 06:59:43 INFO watcher.py:39: Created file watcher for path C:\Users\esctacy\.config\yasb
+2025-01-03 06:59:43 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-01-03 06:59:43 DEBUG _windows.py:192: Thread started
+2025-01-03 07:33:05 INFO tray.py:198: Reloading Application...
+2025-01-03 07:33:06 INFO log.py:21: Yasb
+2025-01-03 07:33:08 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2025-01-03 07:33:08 DEBUG win32.py:58: Looking up time zone info from registry
+2025-01-03 07:33:10 INFO watcher.py:39: Created file watcher for path C:\Users\esctacy\.config\yasb
+2025-01-03 07:33:10 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-01-03 07:33:10 DEBUG _windows.py:192: Thread started
+2025-01-03 07:35:41 INFO tray.py:198: Reloading Application...
+2025-01-03 07:35:41 INFO log.py:21: Yasb
+2025-01-03 07:35:41 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2025-01-03 07:35:41 DEBUG win32.py:58: Looking up time zone info from registry
+2025-01-03 07:35:42 INFO watcher.py:39: Created file watcher for path C:\Users\esctacy\.config\yasb
+2025-01-03 07:35:42 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-01-03 07:35:42 DEBUG _windows.py:192: Thread started
+2025-01-03 09:17:13 INFO tray.py:198: Reloading Application...
+2025-01-03 09:17:14 INFO log.py:21: Yasb
+2025-01-03 09:17:14 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2025-01-03 09:17:14 DEBUG win32.py:58: Looking up time zone info from registry
+2025-01-03 09:17:15 INFO watcher.py:39: Created file watcher for path C:\Users\esctacy\.config\yasb
+2025-01-03 09:17:15 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-01-03 09:17:15 DEBUG _windows.py:192: Thread started
+2025-01-03 09:36:48 INFO tray.py:198: Reloading Application...
+2025-01-03 09:36:49 INFO log.py:21: Yasb
+2025-01-03 09:36:50 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2025-01-03 09:36:50 DEBUG win32.py:58: Looking up time zone info from registry
+2025-01-03 09:36:51 INFO watcher.py:39: Created file watcher for path C:\Users\esctacy\.config\yasb
+2025-01-03 09:36:51 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-01-03 09:36:51 DEBUG _windows.py:192: Thread started
+2025-01-03 09:38:44 INFO tray.py:198: Reloading Application...
+2025-01-03 09:38:44 INFO log.py:21: Yasb
+2025-01-03 09:38:45 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2025-01-03 09:38:45 DEBUG win32.py:58: Looking up time zone info from registry
+2025-01-03 09:38:45 INFO watcher.py:39: Created file watcher for path C:\Users\esctacy\.config\yasb
+2025-01-03 09:38:45 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-01-03 09:38:45 DEBUG _windows.py:192: Thread started
+2025-01-03 09:38:54 INFO tray.py:198: Reloading Application...
+2025-01-03 09:38:54 INFO log.py:21: Yasb
+2025-01-03 09:38:55 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2025-01-03 09:38:55 DEBUG win32.py:58: Looking up time zone info from registry
+2025-01-03 09:38:55 INFO watcher.py:39: Created file watcher for path C:\Users\esctacy\.config\yasb
+2025-01-03 09:38:55 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-01-03 09:38:55 DEBUG _windows.py:192: Thread started
+2025-01-03 11:28:17 ERROR media.py:183: MediaCallback: Error occurred whilst fetching media properties and thumbnail: [WinError -2147024875] The device is not ready
+2025-01-03 11:28:40 ERROR media.py:183: MediaCallback: Error occurred whilst fetching media properties and thumbnail: [WinError -2147024875] The device is not ready
+2025-01-03 11:33:49 INFO tray.py:198: Reloading Application...
+2025-01-03 11:33:51 INFO log.py:21: Yasb
+2025-01-03 11:33:52 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2025-01-03 11:33:53 DEBUG win32.py:58: Looking up time zone info from registry
+2025-01-03 11:33:55 INFO watcher.py:39: Created file watcher for path C:\Users\esctacy\.config\yasb
+2025-01-03 11:33:55 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-01-03 11:33:55 DEBUG _windows.py:192: Thread started
+2025-01-04 10:27:07 INFO log.py:21: Yasb
+2025-01-04 10:27:08 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2025-01-04 10:27:09 DEBUG win32.py:58: Looking up time zone info from registry
+2025-01-04 10:27:11 INFO watcher.py:39: Created file watcher for path C:\Users\esctacy\.config\yasb
+2025-01-04 10:27:11 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-01-04 10:27:11 DEBUG _windows.py:192: Thread started
+2025-01-04 10:27:49 INFO tray.py:198: Reloading Application...
+2025-01-04 10:27:49 INFO log.py:21: Yasb
+2025-01-04 10:27:49 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2025-01-04 10:27:49 DEBUG win32.py:58: Looking up time zone info from registry
+2025-01-04 10:27:50 INFO watcher.py:39: Created file watcher for path C:\Users\esctacy\.config\yasb
+2025-01-04 10:27:50 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-01-04 10:27:50 DEBUG _windows.py:192: Thread started
+2025-01-04 12:18:45 INFO log.py:21: Yasb
+2025-01-04 12:18:46 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2025-01-04 12:18:46 DEBUG win32.py:58: Looking up time zone info from registry
+2025-01-04 12:18:49 INFO watcher.py:39: Created file watcher for path C:\Users\esctacy\.config\yasb
+2025-01-04 12:18:49 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-01-04 12:18:49 DEBUG _windows.py:192: Thread started
+2025-01-04 12:33:09 ERROR media.py:183: MediaCallback: Error occurred whilst fetching media properties and thumbnail: [WinError -2147024875] The device is not ready
+2025-01-04 19:16:58 ERROR event_service.py:30: Failed to emit signal <bound PYQT_SIGNAL foreground_change of ActiveWindowWidget object at 0x0000025357062350>. Removing link to WinEvent.EventSystemForeground.
+2025-01-04 19:16:59 ERROR event_service.py:30: Failed to emit signal <bound PYQT_SIGNAL window_name_change of ActiveWindowWidget object at 0x0000025357062350>. Removing link to WinEvent.EventObjectStateChange.
+2025-01-04 19:16:59 ERROR event_service.py:30: Failed to emit signal <bound PYQT_SIGNAL window_name_change of ActiveWindowWidget object at 0x0000025357062350>. Removing link to WinEvent.EventObjectNameChange.
+2025-01-04 20:22:32 INFO tray.py:198: Reloading Application...
+2025-01-04 20:22:32 INFO log.py:21: Yasb
+2025-01-04 20:22:33 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2025-01-04 20:22:33 DEBUG win32.py:58: Looking up time zone info from registry
+2025-01-04 20:22:33 INFO watcher.py:39: Created file watcher for path C:\Users\esctacy\.config\yasb
+2025-01-04 20:22:33 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-01-04 20:22:33 DEBUG _windows.py:192: Thread started
+2025-01-05 09:06:48 INFO log.py:21: Yasb
+2025-01-05 09:06:50 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2025-01-05 09:06:51 DEBUG win32.py:58: Looking up time zone info from registry
+2025-01-05 09:06:54 INFO watcher.py:39: Created file watcher for path C:\Users\esctacy\.config\yasb
+2025-01-05 09:06:54 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-01-05 09:06:54 DEBUG _windows.py:192: Thread started
+2025-01-05 10:34:34 ERROR media.py:183: MediaCallback: Error occurred whilst fetching media properties and thumbnail: [WinError -2147024875] The device is not ready
+2025-01-06 07:43:26 INFO log.py:21: Yasb
+2025-01-06 07:43:29 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2025-01-06 07:43:29 DEBUG win32.py:58: Looking up time zone info from registry
+2025-01-06 07:43:34 INFO watcher.py:39: Created file watcher for path C:\Users\esctacy\.config\yasb
+2025-01-06 07:43:34 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-01-06 07:43:34 DEBUG _windows.py:192: Thread started
+2025-01-06 08:13:42 ERROR media.py:183: MediaCallback: Error occurred whilst fetching media properties and thumbnail: [WinError -2147024875] The device is not ready
+2025-01-06 18:08:40 INFO log.py:21: Yasb
+2025-01-06 18:08:42 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2025-01-06 18:08:42 DEBUG win32.py:58: Looking up time zone info from registry
+2025-01-06 18:08:46 INFO watcher.py:39: Created file watcher for path C:\Users\esctacy\.config\yasb
+2025-01-06 18:08:46 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-01-06 18:08:46 DEBUG _windows.py:192: Thread started
+2025-01-07 10:46:40 INFO log.py:21: Yasb
+2025-01-07 10:46:42 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2025-01-07 10:46:42 DEBUG win32.py:58: Looking up time zone info from registry
+2025-01-07 10:46:46 INFO watcher.py:39: Created file watcher for path C:\Users\esctacy\.config\yasb
+2025-01-07 10:46:46 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-01-07 10:46:46 DEBUG _windows.py:192: Thread started
+2025-01-07 11:42:27 INFO log.py:21: Yasb
+2025-01-07 11:42:29 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2025-01-07 11:42:29 DEBUG win32.py:58: Looking up time zone info from registry
+2025-01-07 11:42:33 INFO watcher.py:39: Created file watcher for path C:\Users\esctacy\.config\yasb
+2025-01-07 11:42:33 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-01-07 11:42:33 DEBUG _windows.py:192: Thread started
+2025-01-07 11:54:01 INFO log.py:21: Yasb
+2025-01-07 11:54:03 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2025-01-07 11:54:04 DEBUG win32.py:58: Looking up time zone info from registry
+2025-01-07 11:54:07 INFO watcher.py:39: Created file watcher for path C:\Users\esctacy\.config\yasb
+2025-01-07 11:54:07 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-01-07 11:54:07 DEBUG _windows.py:192: Thread started
+2025-01-07 13:19:17 INFO bar_manager.py:64: Screens updated. Re-initialising all bars.
+2025-01-07 13:19:20 INFO log.py:21: Yasb
+2025-01-07 13:19:22 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2025-01-07 13:19:22 DEBUG win32.py:58: Looking up time zone info from registry
+2025-01-07 13:19:25 INFO watcher.py:39: Created file watcher for path C:\Users\esctacy\.config\yasb
+2025-01-07 13:19:25 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-01-07 13:19:25 DEBUG _windows.py:192: Thread started
+2025-01-07 14:17:14 INFO bar_manager.py:64: Screens updated. Re-initialising all bars.
+2025-01-07 14:17:14 INFO log.py:21: Yasb
+2025-01-07 14:17:15 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2025-01-07 14:17:15 DEBUG win32.py:58: Looking up time zone info from registry
+2025-01-07 14:17:16 INFO watcher.py:39: Created file watcher for path C:\Users\esctacy\.config\yasb
+2025-01-07 14:17:16 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-01-07 14:17:16 DEBUG _windows.py:192: Thread started
+2025-01-07 19:10:46 INFO log.py:21: Yasb
+2025-01-07 19:10:48 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2025-01-07 19:10:49 DEBUG win32.py:58: Looking up time zone info from registry
+2025-01-07 19:10:54 INFO watcher.py:39: Created file watcher for path C:\Users\esctacy\.config\yasb
+2025-01-07 19:10:54 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-01-07 19:10:54 DEBUG _windows.py:192: Thread started
+2025-01-08 11:11:41 INFO log.py:21: Yasb
+2025-01-08 11:11:44 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2025-01-08 11:11:44 DEBUG win32.py:58: Looking up time zone info from registry
+2025-01-08 11:11:48 INFO watcher.py:39: Created file watcher for path C:\Users\esctacy\.config\yasb
+2025-01-08 11:11:49 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-01-08 11:11:49 DEBUG _windows.py:192: Thread started
+2025-01-08 14:33:09 ERROR media.py:183: MediaCallback: Error occurred whilst fetching media properties and thumbnail: [WinError -2147024875] The device is not ready
+2025-01-08 16:11:14 INFO log.py:21: Yasb
+2025-01-08 16:11:16 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2025-01-08 16:11:16 DEBUG win32.py:58: Looking up time zone info from registry
+2025-01-08 16:11:19 INFO watcher.py:39: Created file watcher for path C:\Users\esctacy\.config\yasb
+2025-01-08 16:11:19 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-01-08 16:11:19 DEBUG _windows.py:192: Thread started
+2025-01-09 00:08:31 ERROR media.py:183: MediaCallback: Error occurred whilst fetching media properties and thumbnail: [WinError -2147024875] The device is not ready
+2025-01-09 11:30:17 INFO log.py:21: Yasb
+2025-01-09 11:30:19 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2025-01-09 11:30:19 DEBUG win32.py:58: Looking up time zone info from registry
+2025-01-09 11:30:23 INFO watcher.py:39: Created file watcher for path C:\Users\esctacy\.config\yasb
+2025-01-09 11:30:23 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-01-09 11:30:23 DEBUG _windows.py:192: Thread started
+2025-01-10 11:15:32 INFO log.py:21: Yasb
+2025-01-10 11:15:44 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2025-01-10 11:15:44 DEBUG win32.py:58: Looking up time zone info from registry
+2025-01-10 11:15:47 INFO watcher.py:39: Created file watcher for path C:\Users\esctacy\.config\yasb
+2025-01-10 11:15:47 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-01-10 11:15:47 DEBUG _windows.py:192: Thread started
+2025-01-11 09:59:17 INFO log.py:21: Yasb
+2025-01-11 09:59:23 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2025-01-11 09:59:23 DEBUG win32.py:58: Looking up time zone info from registry
+2025-01-11 09:59:26 INFO watcher.py:39: Created file watcher for path C:\Users\esctacy\.config\yasb
+2025-01-11 09:59:26 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-01-11 09:59:26 DEBUG _windows.py:192: Thread started
+2025-01-11 19:31:55 INFO tray.py:198: Reloading Application...
+2025-01-11 19:31:57 INFO log.py:21: Yasb
+2025-01-11 19:31:58 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2025-01-11 19:31:59 DEBUG win32.py:58: Looking up time zone info from registry
+2025-01-11 19:32:01 INFO watcher.py:39: Created file watcher for path C:\Users\esctacy\.config\yasb
+2025-01-11 19:32:01 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-01-11 19:32:01 DEBUG _windows.py:192: Thread started
+2025-01-12 09:45:25 INFO log.py:21: Yasb
+2025-01-12 09:45:27 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2025-01-12 09:45:28 DEBUG win32.py:58: Looking up time zone info from registry
+2025-01-12 09:45:31 INFO watcher.py:39: Created file watcher for path C:\Users\esctacy\.config\yasb
+2025-01-12 09:45:31 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-01-12 09:45:31 DEBUG _windows.py:192: Thread started
+2025-01-12 10:24:53 ERROR media.py:183: MediaCallback: Error occurred whilst fetching media properties and thumbnail: [WinError -2147024875] The device is not ready
+2025-01-14 18:53:33 ERROR media.py:183: MediaCallback: Error occurred whilst fetching media properties and thumbnail: [WinError -2147024875] The device is not ready
+2025-01-15 12:02:52 INFO log.py:21: Yasb
+2025-01-15 12:02:54 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2025-01-15 12:02:55 DEBUG win32.py:58: Looking up time zone info from registry
+2025-01-15 12:02:58 INFO watcher.py:39: Created file watcher for path C:\Users\esctacy\.config\yasb
+2025-01-15 12:02:58 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-01-15 12:02:58 DEBUG _windows.py:192: Thread started
+2025-01-16 00:02:40 INFO bar_manager.py:64: Screens updated. Re-initialising all bars.
+2025-01-16 00:02:44 INFO log.py:21: Yasb
+2025-01-16 00:02:47 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2025-01-16 00:02:48 DEBUG win32.py:58: Looking up time zone info from registry
+2025-01-16 11:49:01 INFO log.py:21: Yasb
+2025-01-16 11:49:02 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2025-01-16 11:49:02 DEBUG win32.py:58: Looking up time zone info from registry
+2025-01-16 11:49:03 INFO watcher.py:39: Created file watcher for path C:\Users\esctacy\.config\yasb
+2025-01-16 11:49:03 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-01-16 11:49:03 DEBUG _windows.py:192: Thread started
+2025-01-17 02:09:33 INFO bar_manager.py:64: Screens updated. Re-initialising all bars.
+2025-01-17 02:09:38 INFO log.py:21: Yasb
+2025-01-17 02:09:41 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2025-01-17 02:09:42 DEBUG win32.py:58: Looking up time zone info from registry
+2025-01-17 10:58:59 INFO log.py:21: Yasb
+2025-01-17 10:59:00 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2025-01-17 10:59:00 DEBUG win32.py:58: Looking up time zone info from registry
+2025-01-17 10:59:01 INFO watcher.py:39: Created file watcher for path C:\Users\esctacy\.config\yasb
+2025-01-17 10:59:01 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-01-17 10:59:01 DEBUG _windows.py:192: Thread started
+2025-01-18 10:31:56 INFO log.py:21: Yasb
+2025-01-18 10:31:59 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2025-01-18 10:31:59 DEBUG win32.py:58: Looking up time zone info from registry
+2025-01-18 10:32:03 INFO watcher.py:39: Created file watcher for path C:\Users\esctacy\.config\yasb
+2025-01-18 10:32:03 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-01-18 10:32:03 DEBUG _windows.py:192: Thread started
+2025-01-18 14:07:12 ERROR media.py:183: MediaCallback: Error occurred whilst fetching media properties and thumbnail: [WinError -2147024875] The device is not ready
+2025-01-18 16:04:57 ERROR media.py:183: MediaCallback: Error occurred whilst fetching media properties and thumbnail: [WinError -2147024875] The device is not ready
+2025-01-18 16:22:03 INFO log.py:21: Yasb
+2025-01-18 16:22:04 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2025-01-18 16:22:05 DEBUG win32.py:58: Looking up time zone info from registry
+2025-01-18 16:22:07 INFO watcher.py:39: Created file watcher for path C:\Users\esctacy\.config\yasb
+2025-01-18 16:22:07 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-01-18 16:22:07 DEBUG _windows.py:192: Thread started
+2025-01-18 16:24:11 INFO bar.py:98: Screen geometry changed. Updating position for bar (status-bar_DISPLAY1_19b4f22c)
+2025-01-18 16:26:02 INFO bar.py:98: Screen geometry changed. Updating position for bar (status-bar_DISPLAY1_19b4f22c)
+2025-01-18 16:34:08 INFO log.py:21: Yasb
+2025-01-18 16:34:10 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2025-01-18 16:34:10 DEBUG win32.py:58: Looking up time zone info from registry
+2025-01-18 16:34:13 INFO watcher.py:39: Created file watcher for path C:\Users\esctacy\.config\yasb
+2025-01-18 16:34:13 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-01-18 16:34:13 DEBUG _windows.py:192: Thread started
+2025-01-18 16:36:23 INFO log.py:21: Yasb
+2025-01-18 16:36:24 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2025-01-18 16:36:25 DEBUG win32.py:58: Looking up time zone info from registry
+2025-01-18 16:36:28 INFO watcher.py:39: Created file watcher for path C:\Users\esctacy\.config\yasb
+2025-01-18 16:36:28 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-01-18 16:36:28 DEBUG _windows.py:192: Thread started
+2025-01-18 16:41:11 INFO log.py:21: Yasb
+2025-01-18 16:41:13 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2025-01-18 16:41:13 DEBUG win32.py:58: Looking up time zone info from registry
+2025-01-18 16:41:16 INFO watcher.py:39: Created file watcher for path C:\Users\esctacy\.config\yasb
+2025-01-18 16:41:16 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-01-18 16:41:16 DEBUG _windows.py:192: Thread started
+2025-01-18 21:56:54 INFO tray.py:198: Reloading Application...
+2025-01-18 21:56:56 INFO log.py:21: Yasb
+2025-01-18 21:56:58 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2025-01-18 21:56:58 DEBUG win32.py:58: Looking up time zone info from registry
+2025-01-18 21:57:00 INFO watcher.py:39: Created file watcher for path C:\Users\esctacy\.config\yasb
+2025-01-18 21:57:00 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-01-18 21:57:00 DEBUG _windows.py:192: Thread started
+2025-01-19 12:04:39 INFO log.py:21: Yasb
+2025-01-19 12:04:41 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2025-01-19 12:04:42 DEBUG win32.py:58: Looking up time zone info from registry
+2025-01-19 12:04:45 INFO watcher.py:39: Created file watcher for path C:\Users\esctacy\.config\yasb
+2025-01-19 12:04:45 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-01-19 12:04:45 DEBUG _windows.py:192: Thread started
+2025-01-19 19:42:07 INFO tray.py:198: Reloading Application...
+2025-01-19 19:42:10 INFO log.py:21: Yasb
+2025-01-19 19:42:11 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2025-01-19 19:42:12 DEBUG win32.py:58: Looking up time zone info from registry
+2025-01-19 19:42:15 INFO watcher.py:39: Created file watcher for path C:\Users\esctacy\.config\yasb
+2025-01-19 19:42:15 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-01-19 19:42:15 DEBUG _windows.py:192: Thread started
+2025-01-20 10:59:52 INFO log.py:21: Yasb
+2025-01-20 10:59:52 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2025-01-20 10:59:52 DEBUG win32.py:58: Looking up time zone info from registry
+2025-01-20 10:59:53 INFO watcher.py:39: Created file watcher for path C:\Users\esctacy\.config\yasb
+2025-01-20 10:59:53 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-01-20 10:59:53 DEBUG _windows.py:192: Thread started
+2025-01-20 18:53:36 INFO log.py:21: Yasb
+2025-01-20 18:53:38 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2025-01-20 18:53:38 DEBUG win32.py:58: Looking up time zone info from registry
+2025-01-20 18:53:42 INFO watcher.py:39: Created file watcher for path C:\Users\esctacy\.config\yasb
+2025-01-20 18:53:42 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-01-20 18:53:42 DEBUG _windows.py:192: Thread started
+2025-01-20 19:29:15 ERROR media.py:183: MediaCallback: Error occurred whilst fetching media properties and thumbnail: [WinError -2147024875] The device is not ready
+2025-01-20 19:29:30 ERROR media.py:183: MediaCallback: Error occurred whilst fetching media properties and thumbnail: [WinError -2147024875] The device is not ready
+2025-01-20 19:51:18 DEBUG _windows.py:218: Stopping worker thread...
+2025-01-20 19:51:18 DEBUG _windows.py:201: Exiting thread
+2025-01-20 19:51:18 DEBUG _windows.py:75: Closing
+2025-01-20 20:02:14 INFO log.py:21: Yasb
+2025-01-20 20:02:15 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2025-01-20 20:02:16 DEBUG win32.py:58: Looking up time zone info from registry
+2025-01-20 20:02:19 INFO watcher.py:39: Created file watcher for path C:\Users\esctacy\.config\yasb
+2025-01-20 20:02:19 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-01-20 20:02:19 DEBUG _windows.py:192: Thread started
+2025-01-20 20:06:36 ERROR media.py:183: MediaCallback: Error occurred whilst fetching media properties and thumbnail: [WinError -2147024875] The device is not ready
+2025-01-21 11:38:52 INFO log.py:21: Yasb
+2025-01-21 11:38:54 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2025-01-21 11:38:54 DEBUG win32.py:58: Looking up time zone info from registry
+2025-01-21 11:38:57 INFO watcher.py:39: Created file watcher for path C:\Users\esctacy\.config\yasb
+2025-01-21 11:38:57 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-01-21 11:38:57 DEBUG _windows.py:192: Thread started
+2025-01-22 10:15:41 INFO log.py:21: Yasb
+2025-01-22 10:15:48 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2025-01-22 10:15:50 DEBUG win32.py:58: Looking up time zone info from registry
+2025-01-22 10:16:01 INFO watcher.py:39: Created file watcher for path C:\Users\esctacy\.config\yasb
+2025-01-22 10:16:01 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-01-22 10:16:01 DEBUG _windows.py:192: Thread started
+2025-01-22 15:50:59 ERROR media.py:183: MediaCallback: Error occurred whilst fetching media properties and thumbnail: [WinError -2147024875] The device is not ready
+2025-01-23 21:33:37 INFO log.py:21: Yasb
+2025-01-23 21:33:42 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2025-01-23 21:33:43 DEBUG win32.py:58: Looking up time zone info from registry
+2025-01-23 21:33:54 INFO watcher.py:39: Created file watcher for path C:\Users\esctacy\.config\yasb
+2025-01-23 21:33:54 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-01-23 21:33:54 DEBUG _windows.py:192: Thread started
+2025-01-24 10:39:20 INFO log.py:21: Yasb
+2025-01-24 10:39:22 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2025-01-24 10:39:23 DEBUG win32.py:58: Looking up time zone info from registry
+2025-01-24 10:39:26 INFO watcher.py:39: Created file watcher for path C:\Users\esctacy\.config\yasb
+2025-01-24 10:39:26 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-01-24 10:39:26 DEBUG _windows.py:192: Thread started
+2025-01-24 14:41:06 INFO log.py:21: Yasb
+2025-01-24 14:41:07 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2025-01-24 14:41:07 DEBUG win32.py:58: Looking up time zone info from registry
+2025-01-24 14:41:09 INFO watcher.py:39: Created file watcher for path C:\Users\esctacy\.config\yasb
+2025-01-24 14:41:09 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-01-24 14:41:09 DEBUG _windows.py:192: Thread started
+2025-01-24 14:46:11 INFO log.py:21: Yasb
+2025-01-24 14:46:13 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2025-01-24 14:46:13 DEBUG win32.py:58: Looking up time zone info from registry
+2025-01-24 14:46:14 INFO watcher.py:39: Created file watcher for path C:\Users\esctacy\.config\yasb
+2025-01-24 14:46:14 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-01-24 14:46:14 DEBUG _windows.py:192: Thread started
+2025-01-24 14:46:35 INFO log.py:21: Yasb
+2025-01-24 14:46:36 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2025-01-24 14:46:36 DEBUG win32.py:58: Looking up time zone info from registry
+2025-01-24 14:46:38 INFO watcher.py:39: Created file watcher for path C:\Users\esctacy\.config\yasb
+2025-01-24 14:46:38 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-01-24 14:46:38 DEBUG _windows.py:192: Thread started
+2025-01-24 14:54:31 INFO log.py:21: Yasb
+2025-01-24 14:54:32 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2025-01-24 14:54:32 DEBUG win32.py:58: Looking up time zone info from registry
+2025-01-24 14:54:33 INFO watcher.py:39: Created file watcher for path C:\Users\esctacy\.config\yasb
+2025-01-24 14:54:33 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-01-24 14:54:33 DEBUG _windows.py:192: Thread started
+2025-01-24 14:55:06 INFO log.py:21: Yasb
+2025-01-24 14:55:07 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2025-01-24 14:55:07 DEBUG win32.py:58: Looking up time zone info from registry
+2025-01-24 14:55:08 INFO watcher.py:39: Created file watcher for path C:\Users\esctacy\.config\yasb
+2025-01-24 14:55:08 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-01-24 14:55:08 DEBUG _windows.py:192: Thread started
+2025-01-24 18:05:49 DEBUG _windows.py:218: Stopping worker thread...
+2025-01-24 18:05:49 DEBUG _windows.py:201: Exiting thread
+2025-01-24 18:05:49 DEBUG _windows.py:75: Closing
+2025-01-24 18:05:50 ERROR event_service.py:30: Failed to emit signal <bound PYQT_SIGNAL window_name_change of ActiveWindowWidget object at 0x00000264BFBA2350>. Removing link to WinEvent.EventObjectNameChange.
+2025-01-24 18:07:10 INFO log.py:21: Yasb
+2025-01-24 18:07:12 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2025-01-24 18:07:12 DEBUG win32.py:58: Looking up time zone info from registry
+2025-01-24 18:07:15 INFO watcher.py:39: Created file watcher for path C:\Users\esctacy\.config\yasb
+2025-01-24 18:07:15 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-01-24 18:07:15 DEBUG _windows.py:192: Thread started
